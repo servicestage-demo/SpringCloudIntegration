@@ -1,6 +1,6 @@
 # THIS IS UNMAINTAINED
 
-As Eureka is no longer NMAINTAINED, we decide to develop a new solution https://github.com/huaweicloud/spring-cloud-huawei to bring more valuable feature for users of servicecomb and huawei cloud.
+As Eureka is no longer MAINTAINED, we decide to develop a new solution https://github.com/huaweicloud/spring-cloud-huawei to bring more valuable feature for users of servicecomb and huawei cloud.
 
 Moving forward I would suggest you use spring cloud huawei for those reasons:
 
